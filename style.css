@@ -39,9 +39,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  img{
-    width: 100%;
-  }
+
 }
 
 /* max is 960 and below */
@@ -51,9 +49,7 @@ img {
     grid-template-rows: repeat(2, 1fr);
   }
 
-  img{
-    width: 100%;
-  }
+
 }
 
 
